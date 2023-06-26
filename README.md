@@ -1,2 +1,3 @@
-# learn_ros2_type_adaptation
-Working through some examples of using ros2 type adaptation
+# Learn ROS2 Type Adaptation
+
+Type adaptation seems like a nice ROS2 feature. This is a repo to help myself understand how to use it through examples.
